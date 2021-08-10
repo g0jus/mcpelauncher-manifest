@@ -42,10 +42,10 @@
 	url = https://github.com/minecraft-linux/mcpelauncher-common.git
 [submodule "mcpelauncher-core"]
 	path = mcpelauncher-core
-	url = https://github.com/g0jus/mcpelauncher-core.git
+	url = https://github.com/minecraft-linux/mcpelauncher-core.git
 [submodule "mcpelauncher-client"]
 	path = mcpelauncher-client
-	url = https://github.com/minecraft-linux/mcpelauncher-client.git
+	url = https://github.com/g0jus/mcpelauncher-client.git
 [submodule "arg-parser"]
 	path = arg-parser
 	url = https://github.com/minecraft-linux/arg-parser.git
